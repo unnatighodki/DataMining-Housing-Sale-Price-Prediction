@@ -21,6 +21,9 @@ The project aims to estimate the housing sale prices with the highest accuracy b
  
    - Bar Chart for combining categories
    - Histogram for identifying the skewed numerical variables
+<img width="475" alt="image" src="https://github.com/unnatighodki/DataMining-Housing-Sale-Price-Prediction/assets/37828502/65733913-4dcf-4c58-84ad-86ca6ee1c2b6">
+<img width="754" alt="image" src="https://github.com/unnatighodki/DataMining-Housing-Sale-Price-Prediction/assets/37828502/098332b0-ca9e-437b-9202-7010fca6076d">
+
 
 ### Model Exploration & Selection
  
