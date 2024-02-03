@@ -1,6 +1,9 @@
 # Introduction
 The project aims to estimate the housing sale prices with the highest accuracy by identifying the best model using data mining and machine learning algorithms. It could help potential buyers, sellers, investors, insurance agencies, bankers, and real estate marketers understand the housing market conditions, enabling them to plan for their "dream" houses. 
 
+<img width="960" alt="image" src="https://github.com/unnatighodki/DataMining-Housing-Sale-Price-Prediction/assets/37828502/02c3a4ad-31bb-4c81-9823-3780e691c669">
+
+
 ## Regression - Predictive Analysis
 
 ***The project consists of various steps***
