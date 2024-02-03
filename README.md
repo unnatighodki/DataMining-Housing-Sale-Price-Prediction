@@ -3,6 +3,8 @@ The project aims to estimate the housing sale prices with the highest accuracy b
 
 <img width="309" alt="image" src="https://github.com/unnatighodki/DataMining-Housing-Sale-Price-Prediction/assets/37828502/f772f065-1135-447c-ba1a-262396da5531">
 
+   [Kaggle dataset link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
 ## Data Description
    - contains data on residential homes in Ames, Iowa.
    - 79 features (predictors/independent variables)
