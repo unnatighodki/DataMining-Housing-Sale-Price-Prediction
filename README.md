@@ -3,6 +3,22 @@ The project aims to estimate the housing sale prices with the highest accuracy b
 
 <img width="309" alt="image" src="https://github.com/unnatighodki/DataMining-Housing-Sale-Price-Prediction/assets/37828502/f772f065-1135-447c-ba1a-262396da5531">
 
+## Data Description
+   - contains data on residential homes in Ames, Iowa.
+   - 79 features (predictors/independent variables)
+        - 36 numerical
+        - 43 categorical
+   
+### ***Insights***
+
+   - **Best Model** - Random Forest
+   - **R2** - 88%
+   - **Mean Absolute Error** - 18047.66
+   - **Best Features**
+        1. Overall quality of the house
+        2. Ground living area
+        3. 1st floor square feet
+        4. 2nd floor square feet
 
 
 ## Regression - Predictive Analysis
